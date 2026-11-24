@@ -1,0 +1,28 @@
+{
+  "source": "audio3.mp4",
+  "frames": 150,
+  "fps": 30.0,
+  "duration": 5.0,
+  "imgsz": 1280,
+  "conf": 0.4,
+  "classes": {
+    "headset": {
+      "frames": 148,
+      "ids": [
+        2
+      ]
+    },
+    "wireless_earbuds": {
+      "frames": 150,
+      "ids": [
+        1
+      ]
+    },
+    "speaker": {
+      "frames": 150,
+      "ids": [
+        3
+      ]
+    }
+  }
+}

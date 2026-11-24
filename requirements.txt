@@ -1,0 +1,5 @@
+ultralytics==8.4.216
+opencv-python==4.11.0.86
+lap==0.5.14
+imageio-ffmpeg==0.8.1
+PyYAML>=6.0

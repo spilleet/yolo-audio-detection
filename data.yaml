@@ -1,0 +1,8 @@
+path: ./dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: headset
+  1: wireless_earbuds
+  2: speaker
